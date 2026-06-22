@@ -1,0 +1,1 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ronit%20Raj&fontSize=60&animation=twinkling"/>
